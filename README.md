@@ -78,7 +78,7 @@ Which npm packages in the React ecosystem are gaining downloads fastest?
 
 | Tool | What it does | Needs a keyword? |
 |---|---|---|
-| `get_time_series` | Historical trend series for a keyword on one of 15 sources | yes |
+| `get_trends` | Historical trend series for a keyword on one of 15 sources | yes |
 | `get_growth` | Growth % over 3M / 6M / 12M / 5Y windows | yes |
 | `get_top_trends` | 21 live trending feeds (Google, TikTok, YouTube, X, Reddit, Amazon, Steam, Spotify...) | no |
 
